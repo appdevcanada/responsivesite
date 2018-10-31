@@ -130,6 +130,10 @@ main {
     width: 33%;
 }
 
+.segment p {
+    text-align: justify;
+}
+
 .comments {
     width: 1000px;
 }
